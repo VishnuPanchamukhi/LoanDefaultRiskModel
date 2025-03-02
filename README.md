@@ -8,6 +8,7 @@ The model is trained on various financial and social factors such as -
 - Age
 - Credit score
 - Late payments etc...
+  
 I chose to use logistic regression as it is very well suited for any binary classification problems, where the outcome was either 0 - no default, or 1 - default.
 They key components of my program involved the Sigmoid function, the Logistic Loss function, and Gradient Descent.
 
